@@ -7,6 +7,6 @@
 
 <h1>Hello world!</h1>
 <p>This is the first file in my new Git Repo.</p>
-
+<p> pull command will b used to move from github to local (REMOTE to LOCAL) </p>
 </body>
 </html>
